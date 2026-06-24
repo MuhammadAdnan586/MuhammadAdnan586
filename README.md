@@ -15,22 +15,11 @@
 
 ### 👨‍💻 About Me
 
-```python
-muhammad_adnan = {
-    "role"      : "Data Scientist | ML Engineer",
-    "education" : "BS Computer Science — CGPA 3.46",
-    "university": "PMAS Arid Agriculture University",
-    "location"  : "Rawalpindi, Pakistan",
-    "flagship"  : "AI-Powered AutoML Platform",
-    "skills"    : ["Python", "SQL", "Power BI", "Docker"],
-    "status"    : "Open to Opportunities 🚀"
-}
-```
-
-- 🤖 Built a **production-ready AutoML SaaS** with FastAPI, Docker & Next.js
-- 📊 Specialized in **ML pipelines, deep learning & business intelligence**
-- 🏆 **SHAP Explainability, RBAC, No-Code API Generator** — all from scratch
-- 💡 Passionate about turning raw data into **real business impact**
+- 🎓 **BS Computer Science** — PMAS Arid Agriculture University (CGPA: 3.46)
+- 🤖 Built a production-ready **AI-Powered AutoML Platform** — FastAPI · Docker · Next.js
+- 🛠️ Skills: **Python • SQL • Power BI • Docker • Machine Learning**
+- 📍 Rawalpindi, Pakistan
+- 💼 **Open to Opportunities** — Data Science | ML Engineer | BI Developer
 
 <br clear="right"/>
 
