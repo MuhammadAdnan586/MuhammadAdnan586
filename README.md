@@ -1,39 +1,89 @@
-<h1 align="center">Hi, I'm Muhammad Adnan 👋</h1>
-<h3 align="center">Data Scientist | ML Engineer | Power BI Developer</h3>
+<div align="center">
 
-<p align="center">
-  <a href="https://portfolio-eight-delta-7blam1yft8.vercel.app" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/m-adnan-12a816402" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:adnank75586@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Muhammad%20Adnan&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Data%20Scientist%20%7C%20ML%20Engineer%20%7C%20Power%20BI%20Developer&descAlignY=58&descSize=18&descColor=a8d8ea)
+
+[![Portfolio](https://img.shields.io/badge/🌐%20Portfolio-Visit%20Now-0f2027?style=for-the-badge&logoColor=white)](https://portfolio-eight-delta-7blam1yft8.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/m-adnan-12a816402)
+[![Gmail](https://img.shields.io/badge/Gmail-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adnank75586@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MuhammadAdnan586)
+
+</div>
 
 ---
 
-### 🧠 About Me
+<img align="right" width="340" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 
-- 🎓 BS Computer Science — PMAS Arid Agriculture University Rawalpindi (CGPA: 3.46)
-- 🤖 Built a **production-ready AI-Powered AutoML Platform** with FastAPI, Docker & Next.js
-- 📊 Passionate about turning raw data into actionable business insights
-- 💼 Open to **Data Science / ML / BI** roles
-- 📍 Based in Rawalpindi, Pakistan
+### 👨‍💻 About Me
+
+```python
+muhammad_adnan = {
+    "role"      : "Data Scientist | ML Engineer",
+    "education" : "BS Computer Science — CGPA 3.46",
+    "university": "PMAS Arid Agriculture University",
+    "location"  : "Rawalpindi, Pakistan",
+    "flagship"  : "AI-Powered AutoML Platform",
+    "skills"    : ["Python", "SQL", "Power BI", "Docker"],
+    "status"    : "Open to Opportunities 🚀"
+}
+```
+
+- 🤖 Built a **production-ready AutoML SaaS** with FastAPI, Docker & Next.js
+- 📊 Specialized in **ML pipelines, deep learning & business intelligence**
+- 🏆 **SHAP Explainability, RBAC, No-Code API Generator** — all from scratch
+- 💡 Passionate about turning raw data into **real business impact**
+
+<br clear="right"/>
 
 ---
 
-### 🚀 Featured Project
+### 🚀 Featured Projects
 
-| Project | Description | Stack |
-|---|---|---|
-| 🤖 [AI-Powered AutoML](https://github.com/MuhammadAdnan586/AI-Powered-AutoML) | Production-ready AutoML SaaS — automated ML pipeline, no-code API generator, SHAP explainability, Docker deployment | FastAPI · Next.js · Docker · Python |
-| 👁️ [Age & Gender Prediction](https://github.com/MuhammadAdnan586/Age-and-Gender-Prediction) | CNN-based deep learning model to predict age & gender from facial images + food recommendation system | TensorFlow · Keras · OpenCV |
-| 📊 [Financial Analytics Dashboard](https://github.com/MuhammadAdnan586/Financial-Analytics-Dashboard-) | Power BI dashboard tracking 28M PKR revenue with 69.40% profit margin & budget variance | Power BI · DAX |
-| 👥 [HR Analytics Dashboard](https://github.com/MuhammadAdnan586/HR-Analytics-Dashboard-) | HR dashboard analyzing 1,000 employees — attrition rate, salary & performance insights | Power BI · DAX |
-| 💹 [Sales Analytics Dashboard](https://github.com/MuhammadAdnan586/Sale_Dashboard) | Interactive sales dashboard tracking 11M PKR revenue with regional & category breakdown | Power BI · DAX |
+<table>
+  <tr>
+    <td width="50%">
+      <h3 align="center">🤖 AI-Powered AutoML Platform</h3>
+      <p align="center">
+        <a href="https://github.com/MuhammadAdnan586/AI-Powered-AutoML">
+          <img src="https://img.shields.io/badge/View%20Project-2c5364?style=for-the-badge&logo=github&logoColor=white"/>
+        </a>
+      </p>
+      <p>Production-ready AutoML SaaS — automated ML pipeline, no-code API generator, SHAP explainability, RBAC & Docker deployment</p>
+      <p><b>Stack:</b> FastAPI · Next.js · Docker · MySQL · Python</p>
+    </td>
+    <td width="50%">
+      <h3 align="center">👁️ Age & Gender Prediction</h3>
+      <p align="center">
+        <a href="https://github.com/MuhammadAdnan586/Age-and-Gender-Prediction">
+          <img src="https://img.shields.io/badge/View%20Project-2c5364?style=for-the-badge&logo=github&logoColor=white"/>
+        </a>
+      </p>
+      <p>CNN deep learning model to predict age & gender from facial images + bonus food recommendation system</p>
+      <p><b>Stack:</b> TensorFlow · Keras · OpenCV · Python</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3 align="center">💰 Financial Analytics Dashboard</h3>
+      <p align="center">
+        <a href="https://github.com/MuhammadAdnan586/Financial-Analytics-Dashboard-">
+          <img src="https://img.shields.io/badge/View%20Project-2c5364?style=for-the-badge&logo=github&logoColor=white"/>
+        </a>
+      </p>
+      <p>Power BI dashboard tracking 28M PKR revenue, 69.40% profit margin & budget variance across departments</p>
+      <p><b>Stack:</b> Power BI · DAX · CSV</p>
+    </td>
+    <td width="50%">
+      <h3 align="center">👥 HR Analytics Dashboard</h3>
+      <p align="center">
+        <a href="https://github.com/MuhammadAdnan586/HR-Analytics-Dashboard-">
+          <img src="https://img.shields.io/badge/View%20Project-2c5364?style=for-the-badge&logo=github&logoColor=white"/>
+        </a>
+      </p>
+      <p>HR dashboard analyzing 1,000 employees — 19.20% attrition rate, salary & performance insights</p>
+      <p><b>Stack:</b> Power BI · DAX · Excel</p>
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -47,35 +97,48 @@
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-0073C5?style=flat-square&logo=xgboost&logoColor=white)
 
 **Tools & Platforms**
 
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white)
 
 ---
 
-### 📈 GitHub Stats
+### 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MuhammadAdnan586&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadAdnan586&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
-</p>
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=MuhammadAdnan586&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadAdnan586&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" width="48%" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=MuhammadAdnan586&theme=tokyonight&hide_border=true&background=0d1117&ring=58a6ff&fire=ff6b6b&currStreakLabel=58a6ff" width="60%" />
+
+</div>
 
 ---
 
 ### 🏆 Certifications
 
-- 📜 **Data Science Orientation** — IBM (2025)
+| Badge | Certification | Issuer | Year |
+|---|---|---|---|
+| 📜 | Data Science Orientation | IBM | 2025 |
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=MuhammadAdnan586&label=Profile%20Views&color=0e75b6&style=flat" />
-</p>
+<div align="center">
 
-<p align="center">⭐ <i>If you find my projects useful, consider giving them a star!</i> ⭐</p>
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer)
+
+![Profile Views](https://komarev.com/ghpvc/?username=MuhammadAdnan586&label=Profile%20Views&color=58a6ff&style=flat)
+
+⭐ **If you find my projects helpful, please give them a star!** ⭐
+
+</div>
