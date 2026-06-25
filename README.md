@@ -95,27 +95,25 @@
     </td>
   </tr>
   <tr>
-    <td colspan="2" width="100%">
+    <td width="50%">
       <h3 align="center">🌱 Fertilizer Deficiency Detection</h3>
       <p align="center">
         <a href="https://github.com/MuhammadAdnan586/Fertilizer_Deficiency_Detection">
           <img src="https://img.shields.io/badge/View%20Project-2c5364?style=for-the-badge&logo=github&logoColor=white"/>
         </a>
       </p>
-      <p align="center">Machine learning based system to detect nutrient/fertilizer deficiency in crops from leaf images, helping farmers take corrective action early</p>
-      <p align="center"><b>Stack:</b> Python · Machine Learning · JavaScript</p>
+      <p>Machine learning based system to detect nutrient/fertilizer deficiency in crops from leaf images, helping farmers take corrective action early</p>
+      <p><b>Stack:</b> Python · Machine Learning · JavaScript</p>
     </td>
-  </tr>
-  <tr>
-    <td colspan="2" width="100%">
+    <td width="50%">
       <h3 align="center">📊 Customer Intelligence & Revenue Optimization</h3>
       <p align="center">
         <a href="https://github.com/MuhammadAdnan586/Customer-Intelligence-Revenue-Optimization">
           <img src="https://img.shields.io/badge/View%20Project-2c5364?style=for-the-badge&logo=github&logoColor=white"/>
         </a>
       </p>
-      <p align="center">SQL-driven customer analytics dashboard — RFM segmentation, cohort retention, product affinity & revenue leakage detection on the Olist Brazilian E-Commerce dataset</p>
-      <p align="center"><b>Stack:</b> FastAPI · MySQL · Next.js · Recharts · TailwindCSS · Python</p>
+      <p>SQL-driven customer analytics dashboard — RFM segmentation, cohort retention, product affinity & revenue leakage detection on the Olist Brazilian E-Commerce dataset</p>
+      <p><b>Stack:</b> FastAPI · MySQL · Next.js · Recharts · TailwindCSS · Python</p>
     </td>
   </tr>
 </table>
