@@ -72,6 +72,28 @@
       <p><b>Stack:</b> Power BI · DAX · Excel</p>
     </td>
   </tr>
+  <tr>
+    <td width="50%">
+      <h3 align="center">🎤 AI Interview Readiness Platform</h3>
+      <p align="center">
+        <a href="https://github.com/MuhammadAdnan586/interview-platform">
+          <img src="https://img.shields.io/badge/View%20Project-2c5364?style=for-the-badge&logo=github&logoColor=white"/>
+        </a>
+      </p>
+      <p>Multi-tenant AI interview platform — CV parsing, dynamic question generation, voice & body language analysis, explainable readiness reports</p>
+      <p><b>Stack:</b> FastAPI · Python · OpenCV · SQLite</p>
+    </td>
+    <td width="50%">
+      <h3 align="center">📈 Sales Analytics Dashboard</h3>
+      <p align="center">
+        <a href="https://github.com/MuhammadAdnan586/Sale_Dashboard">
+          <img src="https://img.shields.io/badge/View%20Project-2c5364?style=for-the-badge&logo=github&logoColor=white"/>
+        </a>
+      </p>
+      <p>Interactive Power BI dashboard tracking 11M PKR revenue, 29.59% profit margin & 87 orders for FY2024</p>
+      <p><b>Stack:</b> Power BI · DAX · CSV</p>
+    </td>
+  </tr>
 </table>
 
 ---
