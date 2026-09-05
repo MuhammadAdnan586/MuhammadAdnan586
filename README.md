@@ -116,6 +116,28 @@
       <p><b>Stack:</b> FastAPI · MySQL · Next.js · Recharts · TailwindCSS · Python</p>
     </td>
   </tr>
+  <tr>
+    <td width="50%">
+      <h3 align="center">🛒 NEXORA — Agentic AI Commerce Intelligence Platform</h3>
+      <p align="center">
+        <a href="https://github.com/MuhammadAdnan586/Nexora-AI-Agentic-AI-Commerce-Intelligence-Platform">
+          <img src="https://img.shields.io/badge/View%20Project-2c5364?style=for-the-badge&logo=github&logoColor=white"/>
+        </a>
+      </p>
+      <p>AI-powered e-commerce platform with a LangGraph multi-agent system — AI shopping agent, demand forecasting, dynamic pricing, risk scoring, RAG-powered document search, and a full admin/warehouse logistics portal</p>
+      <p><b>Stack:</b> FastAPI · LangGraph · Next.js · TypeScript · PostgreSQL</p>
+    </td>
+    <td width="50%">
+      <h3 align="center">🏥 Clinical Ops & Patient Triage Platform</h3>
+      <p align="center">
+        <a href="https://github.com/MuhammadAdnan586/clinical-ops-ai-platform">
+          <img src="https://img.shields.io/badge/View%20Project-2c5364?style=for-the-badge&logo=github&logoColor=white"/>
+        </a>
+      </p>
+      <p>Multi-agent clinical operations platform with patient/doctor portals, symptom-based triage, appointment scheduling, hardcoded safety guardrails, and a RAG-based medical guidelines copilot with human-in-the-loop approval</p>
+      <p><b>Stack:</b> FastAPI · LangGraph · Next.js · PostgreSQL + pgvector · Redis · Docker</p>
+    </td>
+  </tr>
 </table>
 
 ---
@@ -142,6 +164,7 @@
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
 ![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
 
 ---
 
@@ -162,7 +185,8 @@
 
 | Badge | Certification | Issuer | Year |
 |---|---|---|---|
-| 📜 | Data Science Orientation | IBM | 2025 |
+| 📜 | Data Science Orientation | IBM (via Coursera) | 2025 |
+| 📜 | Automation AI Accelerator: From Co-pilot to Autonomous Agent | Datacom (via Forage) | 2026 |
 
 ---
 
