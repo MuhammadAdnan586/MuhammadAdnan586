@@ -1,6 +1,8 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Muhammad%20Adnan&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=AI%20Engineer%20%7C%20Agentic%20AI%20%26%20LLM%20Application%20Developer&descAlignY=58&descSize=18&descColor=a8d8ea)
+<img src="./banner.png" width="100%" alt="Muhammad Adnan — AI Engineer | Agentic AI & LLM Application Developer" />
+
+<br/>
 
 [![Portfolio](https://img.shields.io/badge/🌐%20Portfolio-Visit%20Now-0f2027?style=for-the-badge&logoColor=white)](https://portfolio-eight-delta-7blam1yft8.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/m-adnan-12a816402)
@@ -11,7 +13,7 @@
 
 ---
 
-<img align="right" width="340" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
+<img align="right" width="320" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 
 ### 👨‍💻 About Me
 
@@ -210,7 +212,11 @@
 
 <div align="center">
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer)
+### 🤝 Let's Connect
+
+Open to **AI Engineering**, **Agentic AI**, and **LLM Application Development** opportunities — always happy to talk about multi-agent systems, RAG pipelines, or AI automation.
+
+<br/>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=MuhammadAdnan586&label=Profile%20Views&color=58a6ff&style=flat)
 
