@@ -4,7 +4,7 @@
 
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/🌐%20Portfolio-Visit%20Now-0f2027?style=for-the-badge&logoColor=white)](https://portfolio-eight-delta-7blam1yft8.vercel.app)
+[![Portfolio](https://img.shields.io/badge/🌐%20Portfolio-Visit%20Now-0f2027?style=for-the-badge&logoColor=white)](https://adnan-codex.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/m-adnan-12a816402)
 [![Gmail](https://img.shields.io/badge/Gmail-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adnank75586@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MuhammadAdnan586)
