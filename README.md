@@ -17,7 +17,7 @@
 
 ### 👨‍💻 About Me
 
-- 🎓 **BS Computer Science** — PMAS Arid Agriculture University (CGPA: 3.46)
+- 🎓 **BS Computer Science** — PMAS Arid Agriculture University (CGPA: 3.39)
 - 🤖 Building **Agentic AI systems & LLM-powered applications** — multi-agent orchestration, RAG pipelines, and AI automation
 - 🛠️ Core Stack: **LangChain • LangGraph • CrewAI • FastAPI • Next.js • Python**
 - 📍 Rawalpindi, Pakistan
